@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bazuevad/sorting-algos.git/static/css/main.40b3a901.chunk.css",
+    "main.js": "/bazuevad/sorting-algos.git/static/js/main.0886d044.chunk.js",
+    "main.js.map": "/bazuevad/sorting-algos.git/static/js/main.0886d044.chunk.js.map",
+    "runtime-main.js": "/bazuevad/sorting-algos.git/static/js/runtime-main.10bcde09.js",
+    "runtime-main.js.map": "/bazuevad/sorting-algos.git/static/js/runtime-main.10bcde09.js.map",
+    "static/js/2.902be2ab.chunk.js": "/bazuevad/sorting-algos.git/static/js/2.902be2ab.chunk.js",
+    "static/js/2.902be2ab.chunk.js.map": "/bazuevad/sorting-algos.git/static/js/2.902be2ab.chunk.js.map",
+    "index.html": "/bazuevad/sorting-algos.git/index.html",
+    "precache-manifest.ac92623f951f7d1dae99818ac427b1a2.js": "/bazuevad/sorting-algos.git/precache-manifest.ac92623f951f7d1dae99818ac427b1a2.js",
+    "service-worker.js": "/bazuevad/sorting-algos.git/service-worker.js",
+    "static/css/main.40b3a901.chunk.css.map": "/bazuevad/sorting-algos.git/static/css/main.40b3a901.chunk.css.map",
+    "static/js/2.902be2ab.chunk.js.LICENSE.txt": "/bazuevad/sorting-algos.git/static/js/2.902be2ab.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bazuevad/sorting-algos.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10bcde09.js",
+    "static/js/2.902be2ab.chunk.js",
+    "static/css/main.40b3a901.chunk.css",
+    "static/js/main.0886d044.chunk.js"
+  ]
+}

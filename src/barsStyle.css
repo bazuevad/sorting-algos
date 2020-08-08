@@ -1,8 +1,13 @@
 .graph{
-    position: absolute;
+    position: relative;
+    background-color: #374750;
 }
 .array-bars{
     width:2px;
-    background-color: coral;
+    background-color: #b34cf4;
     display: inline-block;
+    margin: 2px;
+}
+.App{
+    background-color: grey;
 }

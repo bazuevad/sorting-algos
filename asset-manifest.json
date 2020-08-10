@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/bazuevad/sorting-algos.git/static/css/main.6e9e9b37.chunk.css",
-    "main.js": "/bazuevad/sorting-algos.git/static/js/main.27616c28.chunk.js",
-    "main.js.map": "/bazuevad/sorting-algos.git/static/js/main.27616c28.chunk.js.map",
-    "runtime-main.js": "/bazuevad/sorting-algos.git/static/js/runtime-main.10bcde09.js",
-    "runtime-main.js.map": "/bazuevad/sorting-algos.git/static/js/runtime-main.10bcde09.js.map",
-    "static/js/2.333a367e.chunk.js": "/bazuevad/sorting-algos.git/static/js/2.333a367e.chunk.js",
-    "static/js/2.333a367e.chunk.js.map": "/bazuevad/sorting-algos.git/static/js/2.333a367e.chunk.js.map",
-    "index.html": "/bazuevad/sorting-algos.git/index.html",
-    "precache-manifest.7034067e3c1fe5b5397106433d838e51.js": "/bazuevad/sorting-algos.git/precache-manifest.7034067e3c1fe5b5397106433d838e51.js",
-    "service-worker.js": "/bazuevad/sorting-algos.git/service-worker.js",
-    "static/css/main.6e9e9b37.chunk.css.map": "/bazuevad/sorting-algos.git/static/css/main.6e9e9b37.chunk.css.map",
-    "static/js/2.333a367e.chunk.js.LICENSE.txt": "/bazuevad/sorting-algos.git/static/js/2.333a367e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/bazuevad/sorting-algos.git/static/media/logo.5d5d9eef.svg"
+    "main.css": "/bazuevad/sorting-algos/static/css/main.6e9e9b37.chunk.css",
+    "main.js": "/bazuevad/sorting-algos/static/js/main.f21dbab8.chunk.js",
+    "main.js.map": "/bazuevad/sorting-algos/static/js/main.f21dbab8.chunk.js.map",
+    "runtime-main.js": "/bazuevad/sorting-algos/static/js/runtime-main.66d24b70.js",
+    "runtime-main.js.map": "/bazuevad/sorting-algos/static/js/runtime-main.66d24b70.js.map",
+    "static/js/2.333a367e.chunk.js": "/bazuevad/sorting-algos/static/js/2.333a367e.chunk.js",
+    "static/js/2.333a367e.chunk.js.map": "/bazuevad/sorting-algos/static/js/2.333a367e.chunk.js.map",
+    "index.html": "/bazuevad/sorting-algos/index.html",
+    "precache-manifest.d52d4b7147899701791f15f50f18a46c.js": "/bazuevad/sorting-algos/precache-manifest.d52d4b7147899701791f15f50f18a46c.js",
+    "service-worker.js": "/bazuevad/sorting-algos/service-worker.js",
+    "static/css/main.6e9e9b37.chunk.css.map": "/bazuevad/sorting-algos/static/css/main.6e9e9b37.chunk.css.map",
+    "static/js/2.333a367e.chunk.js.LICENSE.txt": "/bazuevad/sorting-algos/static/js/2.333a367e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bazuevad/sorting-algos/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.10bcde09.js",
+    "static/js/runtime-main.66d24b70.js",
     "static/js/2.333a367e.chunk.js",
     "static/css/main.6e9e9b37.chunk.css",
-    "static/js/main.27616c28.chunk.js"
+    "static/js/main.f21dbab8.chunk.js"
   ]
 }

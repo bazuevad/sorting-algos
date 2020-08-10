@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/sorting-algos/static/css/main.6e9e9b37.chunk.css",
-    "main.js": "/sorting-algos/static/js/main.809be7a0.chunk.js",
-    "main.js.map": "/sorting-algos/static/js/main.809be7a0.chunk.js.map",
-    "runtime-main.js": "/sorting-algos/static/js/runtime-main.47d00c17.js",
-    "runtime-main.js.map": "/sorting-algos/static/js/runtime-main.47d00c17.js.map",
-    "static/js/2.333a367e.chunk.js": "/sorting-algos/static/js/2.333a367e.chunk.js",
-    "static/js/2.333a367e.chunk.js.map": "/sorting-algos/static/js/2.333a367e.chunk.js.map",
-    "index.html": "/sorting-algos/index.html",
-    "precache-manifest.d4eb78d6a2daf7993b02b3c4fc168f52.js": "/sorting-algos/precache-manifest.d4eb78d6a2daf7993b02b3c4fc168f52.js",
-    "service-worker.js": "/sorting-algos/service-worker.js",
-    "static/css/main.6e9e9b37.chunk.css.map": "/sorting-algos/static/css/main.6e9e9b37.chunk.css.map",
-    "static/js/2.333a367e.chunk.js.LICENSE.txt": "/sorting-algos/static/js/2.333a367e.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sorting-algos/static/media/logo.5d5d9eef.svg"
+    "main.css": "/bazuevad/sorting-algos.git/static/css/main.6e9e9b37.chunk.css",
+    "main.js": "/bazuevad/sorting-algos.git/static/js/main.27616c28.chunk.js",
+    "main.js.map": "/bazuevad/sorting-algos.git/static/js/main.27616c28.chunk.js.map",
+    "runtime-main.js": "/bazuevad/sorting-algos.git/static/js/runtime-main.10bcde09.js",
+    "runtime-main.js.map": "/bazuevad/sorting-algos.git/static/js/runtime-main.10bcde09.js.map",
+    "static/js/2.333a367e.chunk.js": "/bazuevad/sorting-algos.git/static/js/2.333a367e.chunk.js",
+    "static/js/2.333a367e.chunk.js.map": "/bazuevad/sorting-algos.git/static/js/2.333a367e.chunk.js.map",
+    "index.html": "/bazuevad/sorting-algos.git/index.html",
+    "precache-manifest.7034067e3c1fe5b5397106433d838e51.js": "/bazuevad/sorting-algos.git/precache-manifest.7034067e3c1fe5b5397106433d838e51.js",
+    "service-worker.js": "/bazuevad/sorting-algos.git/service-worker.js",
+    "static/css/main.6e9e9b37.chunk.css.map": "/bazuevad/sorting-algos.git/static/css/main.6e9e9b37.chunk.css.map",
+    "static/js/2.333a367e.chunk.js.LICENSE.txt": "/bazuevad/sorting-algos.git/static/js/2.333a367e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/bazuevad/sorting-algos.git/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.47d00c17.js",
+    "static/js/runtime-main.10bcde09.js",
     "static/js/2.333a367e.chunk.js",
     "static/css/main.6e9e9b37.chunk.css",
-    "static/js/main.809be7a0.chunk.js"
+    "static/js/main.27616c28.chunk.js"
   ]
 }

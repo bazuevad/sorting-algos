@@ -7,9 +7,7 @@ import './barsStyle.css';
  
 function App() {
   return (
-    <div className="App">
-      <SortingWiz></SortingWiz>
-    </div>
+      <SortingWiz className = "Visualizer"></SortingWiz>
   );
 }
 

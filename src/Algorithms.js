@@ -61,23 +61,70 @@ function merge(array,start,mid,end,auxArray,animations){
     }
 }
 
-export function bubbleSortAlgo(array){
+export function bubbleSortAlgo(arr){
     const animations = [];
-    for(let i = 0; i < array.length-1;i++){
-        for(let j = 0; j<array.length-1-i;j++){
+    for(let i = 0; i < arr.length-1;i++){
+        for(let j = 0; j<arr.length-1-i;j++){
             animations.push([j,j+1]);
-            if(array[j]>array[j+1]){
-                let temp = array[j];
-                array[j] = array[j+1];
-                array[j+1] = temp;
-                animations.push([j,array[j]]);
-                animations.push([j+1,array[j+1]]);
+            animations.push([j,j+1]);
+            if(arr[j]>arr[j+1]){
+                let temp = arr[j];
+                arr[j] = arr[j+1];
+                arr[j+1] = temp;
+                animations.push([j,arr[j]]);
+                animations.push([j+1,arr[j+1]]);
             }
             else{
-                animations.push([j,array[j]]);
-                animations.push([j+1,array[j+1]]);
+                animations.push([j,arr[j]]);
+                animations.push([j+1,arr[j+1]]);
             }
         }
+    }
+    return animations;
+}
+
+export function insertionSortAlgo(array){
+    const animations = [];
+    for(let i =1; i< array.length; i++){
+        animations.push([i,i,0]);
+        animations.push([i,i,-1]);
+        let key = array[i];
+        let j = i-1;
+        
+        //we are shifting all values that are larger thn
+        //our current key up 
+        while(j>=0&&array[j]>key){
+            animations.push([j,j,0]);
+            animations.push([j,j,-1]);
+            animations.push([j+1,array[j],-2]);
+            array[j+1] = array[j];
+            j--;
+        }
+        //placing key on the right spot
+        animations.push([j+1,key,-2]);
+        array[j+1] = key;
+        
+    }
+    return animations;
+}
+
+
+export function selectionSortAlgo(array){
+    const animations = [];
+    for(let i = 0; i< array.length; i++){
+        let min = i;
+        for(let j = i+1; j<array.length;j++){
+            if(array[j]<array[min]){
+                min = j;
+            }
+        }
+        animations.push([i,min]);
+        animations.push([i,min]);
+        animations.push([i,array[min]]);
+        animations.push([min,array[i]]);
+        let temp = array[min];
+        array[min] = array[i];
+        array[i] = temp;
     }
     return animations;
 }

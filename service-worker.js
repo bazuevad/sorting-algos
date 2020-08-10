@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bazuevad/sorting-algos.git/precache-manifest.ac92623f951f7d1dae99818ac427b1a2.js"
+  "/bazuevad/sorting-algos.git/precache-manifest.7034067e3c1fe5b5397106433d838e51.js"
 );
 
 self.addEventListener('message', (event) => {

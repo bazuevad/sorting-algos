@@ -1,8 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Sorting Visualizer
 
-In the project directory, you can run:
+This is a web app built using React and is used to enhance the proceess of studying sortng algorithms by students by visualizing sorting algorithms step-by-step on unsorted arrays. Includes sorting algorithms such as merge sort, bubble sort, insertion sort and etc. Speed of algorithm's visuzlization and size of arrays can be adjusted which gives different options for studying purposes. 
 
 ### `npm start`
 

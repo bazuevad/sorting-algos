@@ -16,11 +16,11 @@ I wanted to learn React as well as revise classic sorting algorithms for my inte
 
 If you wish to run this app locally, clone this repo and install the dependencies.
 
-$ git clone https://github.com/bazuevad/sorting-algos.git
+`$ git clone https://github.com/bazuevad/sorting-algos.git`
 
-$ cd sort-visualizer
+`$ cd sort-visualizer`
 
-$ npm install
+`$ npm install`
 
 ## App Conventions
 

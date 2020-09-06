@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 This is a web app built using React and is used to enhance the proceess of studying sortng algorithms for students by visualizing sorting algorithms step-by-step on unsorted arrays. Includes sorting algorithms such as merge sort, bubble sort, insertion sort and etc. Speed of algorithm's visualization and size of unsorted arrays can be adjusted which provides different options for studying purposes. 
 
-App is deployed and can be accessed here: bazuevad.github.io/sorting-algos/.
+App is deployed and can be accessed here: https://bazuevad.github.io/sorting-algos/.
 
 ### `npm start`
 

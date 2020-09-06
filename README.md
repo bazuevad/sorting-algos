@@ -6,6 +6,7 @@ This is a web app built using React and is used to enhance the proceess of study
 
 App is deployed and can be accessed here: https://bazuevad.github.io/sorting-algos/.
 
+![alt text](https://user-images.githubusercontent.com/62586933/92315441-7dfae300-efb3-11ea-8af4-a494167ff8ea.png)
 ### `npm start`
 
 Runs the app in the development mode.<br />
